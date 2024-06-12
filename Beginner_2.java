@@ -114,7 +114,7 @@ public class Beginner_2 {
 
     System.out.println();
 
-    System.out.println("Adding two or more String variables together only puts them one after the other")
+    System.out.println("Adding two or more String variables together only puts them one after the other");
     
     }
 }
